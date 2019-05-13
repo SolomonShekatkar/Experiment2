@@ -42,7 +42,7 @@ int main()
 			break;
 		}
 
-		cout << "Total Monthly Bill: " << bill << "\n\n" << endl;
+		cout << "Total Monthly Bill: " << "P" << bill << "\n\n" << endl;
 	}
 	else 
 		cout << "Invalid Input";
