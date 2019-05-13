@@ -14,7 +14,7 @@ int main()
 
 	cout << "Enter the value of x:" << endl;
 	cin >> x;
-	cout << "Enter the value o y:" << endl;
+	cout << "Enter the value of y:" << endl;
 	cin >> y;
 
 	switch (x)
